@@ -2,8 +2,6 @@
 
 A simple weather app that allows users to check the weather for a specific city.
 
-![Weather App Screenshot](screenshot.png)
-
 ## Features
 
 - Users can enter the name of a city to get the current weather information.
